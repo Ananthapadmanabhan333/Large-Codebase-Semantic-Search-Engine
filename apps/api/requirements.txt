@@ -1,0 +1,22 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+redis
+celery
+qdrant-client
+openai
+tree-sitter
+tree-sitter-language-pack
+pydantic
+python-dotenv
+networkx
+pygithub
+langchain
+langchain-openai
+langgraph
+httpx
+python-multipart
+python-magic-bin; sys_platform == 'win32'
+python-magic; sys_platform != 'win32'
+gitpython
